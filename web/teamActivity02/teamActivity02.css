@@ -1,0 +1,18 @@
+.#first {
+	background-color: black;
+	font-size: 3em;
+}
+
+#second {
+	background-color: blue;
+	font-size: 3em;
+}
+
+#third {
+	background-color: red;
+	font-size: 3em;
+}
+
+.hover:hover {
+	font-weight: bold;
+}

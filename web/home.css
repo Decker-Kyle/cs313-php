@@ -20,3 +20,8 @@ body{
 .portrait{
 	flex: 1;
 }
+
+.description{
+	vertical-align: text-top;
+	padding-left: .5em;
+}

@@ -11,5 +11,4 @@
 		<span>Sometimes a programmer.</span>
 		<span>Mostly likes history.</span>
 	</div>
-</body>
-</html>
+

@@ -1,14 +1,13 @@
 body{
 	background: #555;
 }
-.header{
-	width: 500px;
-	margin: auto;
-	background: white;
-	text-align: center;
-}
+
 .container{
-	width: 500px;
+	width: 700px;
 	margin: auto;
 	background: white;
+}
+
+.header{
+	text-align: center;
 }

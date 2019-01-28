@@ -1,11 +1,12 @@
 
+<div class="container">
 <?php 
 session_start();
 include('header.php');
 include('nav.php');
 ?>
 
-<div class="container">
+
 	<div class="portrait"><img src="../gorbash.jpg" alt="gorbash"></img></div>
 	<div class="description">
 		<h2>About Me</h2>

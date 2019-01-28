@@ -5,7 +5,7 @@
 	<script src="home.js"></script>
 </head>
 <body>
-	<div class="container">
+	<div class="header">
 		<h1>Kyle Decker</h1>
 		<span>Generally a person.</span>
 		<span>Sometimes a programmer.</span>

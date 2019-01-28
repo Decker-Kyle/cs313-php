@@ -3,7 +3,9 @@ body{
 }
 
 .container{
-	width: 50px;
+	width: 75em;
+	height: 100em;
+	height: ;
 	background: white;
 	padding: 1em;
 	position: absolute;

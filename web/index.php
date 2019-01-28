@@ -6,11 +6,12 @@ include('header.php');
 include('nav.php');
 ?>
 
-
-	<div class="portrait"><img src="../gorbash.jpg" alt="gorbash"></img></div>
-	<div class="description">
-		<h2>About Me</h2>
-		<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+	<div>
+		<div class="portrait"><img src="../gorbash.jpg" alt="gorbash"></img></div>
+		<div class="description">
+			<h2>About Me</h2>
+			<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 	non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+		</div>
 	</div>
 
 </div>

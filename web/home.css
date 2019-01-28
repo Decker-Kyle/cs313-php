@@ -3,10 +3,12 @@ body{
 }
 
 .container{
-	width: 700px;
-	margin: auto;
+	width: 50px;
 	background: white;
 	padding: 1em;
+	position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .header{

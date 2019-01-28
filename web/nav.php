@@ -1,6 +1,6 @@
 <nav class="navbar">
 	<div class="header">
-		<span class="About Me"></span>
-		<span class="Assignments"></span>
+		<span class="about_me">About Me</span>
+		<span class="assignments">Assignments</span>
 	</div>
 </nav>

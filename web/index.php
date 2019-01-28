@@ -6,7 +6,7 @@ include('header.php');
 include('nav.php');
 ?>
 
-	<div>
+	<div class="me">
 		<div class="portrait"><img src="../gorbash.jpg" alt="gorbash"></img></div>
 		<div class="description">
 			<h2>About Me</h2>

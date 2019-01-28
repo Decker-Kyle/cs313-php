@@ -11,3 +11,11 @@ body{
 .header{
 	text-align: center;
 }
+
+.me{
+	display: flex;
+}
+
+.portrait{
+	flex: 1;
+}

@@ -1,7 +1,7 @@
 <?php
-$title = $_POST['title'];
+$title = $_POST['txtTitle'];
 $firstTime = $_POST['firstTime'];
-$SecondTime = $_POST['SecondTime'];
+$SecondTime = $_POST['txtSecondTime'];
 $timePeriod = $_POST['timeOfDay'];
 $content = $_POST['content'];
 

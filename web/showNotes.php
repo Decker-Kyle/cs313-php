@@ -4,15 +4,15 @@
 try
 {
 
-	$statement = $db->prepare('SELECT id, title, firstTime, SecondTime, timePeriod, content FROM note');
+	$statement = $db->prepare('SELECT id, title, firsttime, secondtime, timeperiod, content FROM note');
 	$statement->execute();
 
 	while ($row = $statement->fetch(PDO::FETCH_ASSOC))
 	{
 		echo '<p>';
 		echo $row['title'];
-		echo $row['firstTime'] . ' - ' . $row['SecondTime'] . '<br />';
-		echo $row['timePeriod'];
+		echo $row['firsttime'] . ' - ' . $row['secondtime'] . '<br />';
+		echo $row['timeperiod'];
 		echo $row['content'];
 		echo '</p><br />';
 

@@ -25,6 +25,6 @@ catch (Exception $ex)
 	echo "Error with DB. Details: $ex";
 	die();
 }
-//header("Location: showNotes.php");
-//die(); 
+header("Location: notes.php");
+die(); 
 ?>

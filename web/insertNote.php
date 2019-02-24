@@ -1,9 +1,9 @@
 <?php
 $title = $_POST['txtTitle'];
-$firstTime = $_POST['firstTime'];
+$firstTime = $_POST['txtFirstTime'];
 $SecondTime = $_POST['txtSecondTime'];
-$timePeriod = $_POST['timeOfDay'];
-$content = $_POST['content'];
+$timePeriod = $_POST['txtTimeOfDay'];
+$content = $_POST['txtContent'];
 
 require("dbConnect.php");
 $db = get_db();

@@ -1,0 +1,38 @@
+body{
+	background: #89cff0;
+}
+
+.container{
+	width: 70em;
+	height: 50em;
+	height: ;
+	background: white;
+	padding: 1em;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    display: block;
+    margin-left: -35em;
+    margin-top: -25em;
+}
+
+.header{
+	text-align: center;
+}
+
+.me{
+	display: flex;
+}
+
+.portrait{
+	flex: 1;
+}
+
+.description{
+	vertical-align: top;
+	padding-left: .5em;
+}
+
+.navbar li{
+	display:inline;
+}
